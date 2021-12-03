@@ -1,0 +1,25 @@
+{
+  "name": "sequalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivycodr/sequalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivycodr/sequalize/issues"
+  },
+  "homepage": "https://github.com/ivycodr/sequalize#readme",
+  "dependencies": {
+    "jest": "^27.4.3",
+    "sequelize": "^6.12.0-alpha.1",
+    "sqlite3": "^5.0.2"
+  }
+}
